@@ -1,0 +1,49 @@
+{
+  "name": "haunted-house-of-bugs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An escape-room-style web app that teaches coding via debugging puzzles",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
+    "firebase": "^10.14.1",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-firebase-hooks": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.17",
+    "@types/react": "^18.3.24",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^14.0.4",
+    "postcss": "^8",
+    "prettier": "^3.6.2",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5.9.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/haunted-house-of-bugs.git"
+  },
+  "keywords": [
+    "hackathon",
+    "coding-education",
+    "debugging",
+    "escape-room",
+    "nextjs",
+    "typescript",
+    "firebase"
+  ]
+}

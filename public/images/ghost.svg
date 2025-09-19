@@ -1,0 +1,60 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="ghostGradient" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" style="stop-color:#f8fafc;stop-opacity:0.9" />
+      <stop offset="70%" style="stop-color:#e2e8f0;stop-opacity:0.7" />
+      <stop offset="100%" style="stop-color:#cbd5e1;stop-opacity:0.4" />
+    </radialGradient>
+    <radialGradient id="glowEffect" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#6b46c1;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#6b46c1;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Glow Effect -->
+  <circle cx="100" cy="100" r="90" fill="url(#glowEffect)"/>
+  
+  <!-- Ghost Body -->
+  <path d="M100,50 
+           C120,50 135,65 135,85
+           C135,105 135,130 135,150
+           C135,160 130,165 125,165
+           C120,160 115,165 110,165
+           C105,160 100,165 95,165
+           C90,160 85,165 80,165
+           C75,160 70,165 65,165
+           C60,165 65,160 65,150
+           C65,130 65,105 65,85
+           C65,65 80,50 100,50 Z" 
+        fill="url(#ghostGradient)" 
+        stroke="#e2e8f0" 
+        stroke-width="1"
+        opacity="0.9"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="85" cy="85" rx="8" ry="12" fill="#1e293b"/>
+  <ellipse cx="115" cy="85" rx="8" ry="12" fill="#1e293b"/>
+  
+  <!-- Eye Highlights -->
+  <ellipse cx="87" cy="82" rx="2" ry="3" fill="#f8fafc"/>
+  <ellipse cx="117" cy="82" rx="2" ry="3" fill="#f8fafc"/>
+  
+  <!-- Mouth -->
+  <ellipse cx="100" cy="110" rx="6" ry="8" fill="#1e293b"/>
+  
+  <!-- Floating Animation Keyframes -->
+  <animateTransform
+    attributeName="transform"
+    attributeType="XML"
+    type="translate"
+    values="0,0; 0,-10; 0,0"
+    dur="3s"
+    repeatCount="indefinite"/>
+    
+  <!-- Opacity Animation for Spooky Effect -->
+  <animate
+    attributeName="opacity"
+    values="0.7; 1; 0.7"
+    dur="4s"
+    repeatCount="indefinite"/>
+</svg>
