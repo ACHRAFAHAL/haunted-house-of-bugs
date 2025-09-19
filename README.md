@@ -53,7 +53,7 @@ App
 - ✅ **Live Timer**: Real-time countdown during puzzle solving
 - ✅ **Profile Management**: Track progress and room completion times
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js 14 + TypeScript
 - **Styling**: Tailwind CSS with custom spooky theme
