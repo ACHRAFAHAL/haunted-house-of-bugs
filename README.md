@@ -1,4 +1,4 @@
-# Haunted House of Bugs 👻🏚️
+# Haunted House of Bugs
 
 > Solve code bugs, escape rooms, learn CS fundamentals.
 
@@ -63,7 +63,7 @@ The game features 10 progressively challenging rooms, each with unique coding pu
 - **Hint Penalty**: -10 points per hint used
 - **Total Time**: Sum of all individual room times for leaderboard ranking
 
-## 📝 License
+## License
 
 MIT License - see LICENSE file for details.
 
