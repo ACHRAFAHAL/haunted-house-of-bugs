@@ -13,6 +13,30 @@ An escape-room-style web application that teaches coding through debugging puzzl
 **Target Audience**: Beginner to intermediate programmers  
 **Learning Goals**: Debugging, problem-solving, JavaScript fundamentals  
 
+## Project structure
+App
+├── Header
+│   ├── Navigation Links
+│   ├── User Menu Dropdown
+│   └── Score Display
+├── Main Content
+│   ├── Home Page
+│   │   ├── Auth Form (if not logged in)
+│   │   ├── Game Dashboard (if logged in)
+│   │   └── Leaderboard Sidebar
+│   ├── Room Pages
+│   │   ├── Live Timer
+│   │   ├── PuzzleRenderer
+│   │   │   ├── EditorPuzzle (for code challenges)
+│   │   │   └── MCQPuzzle (for multiple choice)
+│   │   └── Completion Modal
+│   ├── About Page
+│   └── Leaderboard Page
+├── Footer
+│   └── Site Links
+└── BackgroundMusic
+    └── Audio Controls
+
 ### Core Features
 
 - ✅ **Authentication**: Email + Google OAuth via Firebase
