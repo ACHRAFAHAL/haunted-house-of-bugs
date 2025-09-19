@@ -14,6 +14,7 @@ An escape-room-style web application that teaches coding through debugging puzzl
 **Learning Goals**: Debugging, problem-solving, JavaScript fundamentals  
 
 ## Project structure
+```
 App
 ├── Header
 │   ├── Navigation Links
@@ -36,6 +37,7 @@ App
 │   └── Site Links
 └── BackgroundMusic
     └── Audio Controls
+```
 
 ### Core Features
 
