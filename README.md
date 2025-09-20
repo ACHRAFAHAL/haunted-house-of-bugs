@@ -41,17 +41,17 @@ App
 
 ### Core Features
 
-- ✅ **Authentication**: Email + Google OAuth via Firebase
-- ✅ **10 Themed Rooms**: Progressive difficulty with unique coding puzzles
-- ✅ **Puzzle Types**: MCQ, Fill-in-the-blank, Fix-the-bug
-- ✅ **Individual Room Timing**: Track time spent on each room separately
-- ✅ **Real-time Scoring**: Points system with time bonuses and hint penalties
-- ✅ **Global Leaderboard**: Rankings with total completion times
-- ✅ **Responsive UI**: Tailwind CSS with custom spooky theme
-- ✅ **Code Editor**: Monaco Editor integration for real coding experience
-- ✅ **Hint System**: Progressive help with point penalties
-- ✅ **Live Timer**: Real-time countdown during puzzle solving
-- ✅ **Profile Management**: Track progress and room completion times
+- **Authentication**: Email + Google OAuth via Firebase
+- **10 Themed Rooms**: Progressive difficulty with unique coding puzzles
+- **Puzzle Types**: MCQ, Fill-in-the-blank, Fix-the-bug
+- **Individual Room Timing**: Track time spent on each room separately
+- **Real-time Scoring**: Points system with time bonuses and hint penalties
+- **Global Leaderboard**: Rankings with total completion times
+- **Responsive UI**: Tailwind CSS with custom spooky theme
+- **Code Editor**: Monaco Editor integration for real coding experience
+- **Hint System**: Progressive help with point penalties
+- **Live Timer**: Real-time countdown during puzzle solving
+- **Profile Management**: Track progress and room completion times
 
 ## Tech Stack
 
