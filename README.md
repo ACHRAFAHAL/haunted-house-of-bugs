@@ -70,18 +70,18 @@ App
 
 The game features 10 progressively challenging rooms, each with unique coding puzzles:
 
-| Room | Title | Type | Difficulty | Concepts |
-|------|-------|------|------------|----------|
-| 1 | Whispering Mirror | Fill Code | Easy | String manipulation |
-| 2 | Clock of Off-By-One | Fix Bug | Medium | Array indexing |
-| 3 | Ciphered Hallway | MCQ | Easy | Caesar cipher |
-| 4 | Recursive Door | Fill Code | Hard | Recursion |
-| 5 | Array Abyss | Fix Bug | Medium | Array methods |
-| 6 | Object Altar | MCQ | Medium | Object properties |
-| 7 | Function Phantoms | Fill Code | Hard | Higher-order functions |
-| 8 | Loop Labyrinth | Fix Bug | Hard | Loop conditions |
-| 9 | Async Apparition | MCQ | Hard | Async/await patterns |
-| 10 | Final Nightmare | Fill Code | Expert | Complex algorithms |
+| Room | Title | Type | Concepts |
+|------|-------|------|----------|
+| 1 | Whispering Mirror | Fill Code | String manipulation |
+| 2 | Clock of Off-By-One | Fix Bug | Array indexing |
+| 3 | Ciphered Hallway | MCQ | Caesar cipher |
+| 4 | Recursive Door | Fill Code | Recursion |
+| 5 | Array Abyss | Fix Bug | Array methods |
+| 6 | Object Altar | MCQ | Object properties |
+| 7 | Function Phantoms | Fill Code | Higher-order functions |
+| 8 | Loop Labyrinth | Fix Bug | Loop conditions |
+| 9 | Async Apparition | MCQ | Async/await patterns |
+| 10 | Final Nightmare | Fill Code | Complex algorithms |
 
 ### Scoring System
 - **Base Points**: Each puzzle has a base point value (50-200 points)
@@ -95,5 +95,5 @@ MIT License - see LICENSE file for details.
 
 
 
-⚠️ **Important**: This is a hackathon MVP with client-side code execution. For production use:
+⚠️ **Important**: This is a hackathon MVP with client-side code execution.
 **Happy Debugging!** 
