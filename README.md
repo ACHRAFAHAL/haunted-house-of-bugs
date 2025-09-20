@@ -6,7 +6,7 @@ An escape-room-style web application that teaches coding through debugging puzzl
 
 ## Live Demo  
 
-Deployed with Vercel, [GO try it](haunted-house-of-bugs.vercel.app)
+Deployed with Vercel, [GO try it]([haunted-house-of-bugs.vercel.app](https://haunted-house-of-bugs.vercel.app/))
 
 ## Project Overview
 
