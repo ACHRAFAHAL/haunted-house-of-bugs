@@ -1,14 +1,14 @@
-# Contributing to Haunted House of Bugs 👻
+# Contributing to Haunted House of Bugs
 
 Thank you for your interest in contributing to our spooky coding adventure! This is a hackathon project, but we welcome improvements and bug fixes.
 
-## 🎯 Project Goals
+## Project Goals
 
 - Educational value for beginner/intermediate programmers
 - Engaging, gamified learning experience
 - Clean, maintainable code for future enhancements
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Fork** the repository
 2. **Clone** your fork locally
@@ -16,13 +16,12 @@ Thank you for your interest in contributing to our spooky coding adventure! This
 4. **Setup** Firebase (see README.md)
 5. **Start** development: `npm run dev`
 
-## 📝 Development Guidelines
+## Development Guidelines
 
 ### Code Style
 - Follow existing TypeScript patterns
 - Use Tailwind CSS classes (avoid custom CSS when possible)
 - Include JSDoc comments for complex functions
-- Maintain the spooky theme! 👻
 
 ### Commit Messages
 Use conventional commits:
@@ -41,7 +40,7 @@ npm run type-check
 npm run build
 ```
 
-## 🐛 Bug Reports
+## Bug Reports
 
 When reporting bugs, please include:
 - Browser/OS information
@@ -49,38 +48,25 @@ When reporting bugs, please include:
 - Expected vs actual behavior
 - Console errors (if any)
 
-## 💡 Feature Requests
+## Design Contributions
 
-For new features, consider:
-- Educational value
-- Feasibility for hackathon scope
-- Alignment with spooky theme
-- User experience impact
-
-## 🎨 Design Contributions
-
-We welcome:
 - New spooky illustrations
 - Animation improvements
 - Accessibility enhancements
 - Mobile UX improvements
 
-## 📚 Educational Content
+## Educational Content
 
-Help us add more puzzles! Include:
+Help by adding more puzzles! Include:
 - Clear learning objectives
 - Progressive difficulty
 - Comprehensive test cases
 - Helpful hints
 
-## 🔒 Security
-
-Found a security issue? Please email security@hauntedhouse.dev instead of creating a public issue.
-
-## 📜 License
+## License
 
 By contributing, you agree your contributions will be licensed under the MIT License.
 
 ---
 
-Happy haunting! 🦇
+Happy coding!
