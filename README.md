@@ -6,7 +6,7 @@ An escape-room-style web application that teaches coding through debugging puzzl
 
 ## Live Demo  
 
-[Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/your-username/haunted-house-of-bugs) or follow the setup instructions below.
+Deployed with Vercel, [GO try it](haunted-house-of-bugs.vercel.app)
 
 ## Project Overview
 
