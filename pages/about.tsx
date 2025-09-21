@@ -111,7 +111,6 @@ export default function AboutPage({ user, loading }: AboutPageProps) {
             </div>
             <div className="max-w-2xl mx-auto text-center">
               <div className="bg-shadow-black/50 border border-spooky-purple/30 rounded-lg p-6">
-                <h3 className="text-2xl font-bold text-spooky-green mb-4">Achraf AHAL</h3>
                 <p className="text-gray-300 text-lg mb-6">
                   A passionate developer who believes that learning to code should be both fun and effective.
                 </p>
