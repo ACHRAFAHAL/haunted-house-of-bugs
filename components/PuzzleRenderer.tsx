@@ -19,7 +19,7 @@ export default function PuzzleRenderer({ puzzle, onCorrect, onHintUsed }: Puzzle
       <div className="mb-6">
         <div className="flex items-center justify-between mb-4">
           <h1 className="text-2xl font-bold text-spooky-purple">
-            Room {puzzle.room}: {puzzle.title}
+            {puzzle.title}
           </h1>
           <div className="text-spooky-green font-semibold">
             {puzzle.points} points
